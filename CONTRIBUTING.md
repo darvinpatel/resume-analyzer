@@ -39,8 +39,8 @@ We welcome feature requests! When suggesting enhancements:
 1. **Fork the repository**
 2. **Clone your fork**
    ```bash
-   git clone https://github.com/your-username/ai-resume-analyzer.git
-   cd ai-resume-analyzer
+   git clone https://github.com/darvinpatel/resume-analyzer.git
+   cd resume-analyzer
    ```
 
 3. **Install dependencies**
@@ -210,8 +210,7 @@ When adding new features:
 
 ## 📞 Getting Help
 
-- **Issues**: [GitHub Issues](https://github.com/darvinpatel/ai-resume-analyzer/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/darvinpatel/ai-resume-analyzer/discussions)
+- **Issues**: [GitHub Issues](https://github.com/darvinpatel/resume-analyzer/issues)
 - **Email**: contact@darvinpatel.com
 
 ## 🙏 Recognition

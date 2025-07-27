@@ -32,8 +32,8 @@ An intelligent resume analysis platform that provides ATS (Applicant Tracking Sy
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/ai-resume-analyzer.git
-   cd ai-resume-analyzer
+   git clone https://github.com/darvinpatel/ai-resume-analyzer.git
+   cd resume-analyzer
    ```
 
 2. **Install dependencies**
@@ -220,13 +220,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/darvinpatel/ai-resume-analyzer/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/darvinpatel/ai-resume-analyzer/discussions)
+- **Issues**: [GitHub Issues](https://github.com/darvinpatel/resume-analyzer/issues)
 - **Email**: contact@darvinpatel.com
 
 ## 🔗 Links
 
-- **Live Demo**: [https://resumind.vercel.app](https://resumind.vercel.app)
+- **Live Demo**: [https://resume-analyzer.darvinpatel.com/](https://resume-analyzer.darvinpatel.com/)
 
 ---
 
